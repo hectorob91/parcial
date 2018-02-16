@@ -26,3 +26,4 @@ Parcial Multimedia
   -Centrar el texto del párrafo dentro de footer
 
 Debe de quedar algo así:
+<img src="https://raw.githubusercontent.com/hectorob91/parcial/master/ejemplo.png">
