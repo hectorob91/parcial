@@ -21,7 +21,7 @@ Parcial Multimedia
 
   -Quitar lo redondo cuadro
 
-  -Cambiar el color de fondo al elemento con id etiquetas por el color #ff0000
+  -Cambiar el color de fondo al elemento con id etiquetas por el color #ff0000 y el texto por el color #fff
 
   -Centrar el texto del párrafo dentro de footer
 
