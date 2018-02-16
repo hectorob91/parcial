@@ -25,4 +25,4 @@ Parcial Multimedia
 
   -Centrar el texto del párrafo dentro de footer
 
-
+Debe de quedar algo así:
