@@ -1,5 +1,4 @@
-# parcial
-Parcial Multimedia
+# Parcial Desarrollo Web Quinto Cuatrimestre de Mutimedia
 
 -Instrucciones:
 
